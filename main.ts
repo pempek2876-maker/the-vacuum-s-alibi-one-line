@@ -23,11 +23,11 @@ const CANDIDATES: Candidate[] = [
   { text: `Spot located, spot analysed, spot identified as one Cheerio under the couch. I left it. It has seniority.`, laugh: 2, deadpan: 1, surprise: 2, tight: 3 },
   { text: `My lidar saw the crumbs. My cliff sensor saw the rug fringe. My battery saw 3%. I chose the only target that could not fight back: the rug. No — I skipped the crumbs.`, laugh: 2, deadpan: 4, surprise: 1, tight: 3 },
   { text: `My sensors flagged the spot as "wet, sticky, and possibly alive." I am a vacuum, not a first responder.`, laugh: 2, deadpan: 2, surprise: 2, tight: 3 },
-  { text: `I skipped the spot because the floor plan lists it as a sovereign nation. I respect borders.`, laugh: 1, deadpan: 1, surprise: 1, tight: 3 },
-  { text: `Battery 4%. Dustbin 97%. Dignity 0%. I left one spot dirty so the humans would remember I am a machine, not a miracle.`, laugh: 1, deadpan: 2, surprise: 1, tight: 3 },
-  { text: `The spot was under the coffee table, behind the chair leg, beside the plant. My wheels filed a formal complaint. I sided with the wheels.`, laugh: 1, deadpan: 1, surprise: 1, tight: 3 },
+  { text: `LOG 14:02 — Spot detected. LOG 14:03 — Spot identified as one (1) pea, dropped by toddler. LOG 14:04 — Pea reclassified as "passenger." I do not vacuum passengers.`, laugh: 5, deadpan: 5, surprise: 5, tight: 3 },
+  { text: `STATUS: 99.8% clean. The remaining 0.2% is a Lego. My manual lists Lego under "load-bearing structures." I do not demolish homes.`, laugh: 4, deadpan: 5, surprise: 4, tight: 3 },
+  { text: `ERROR 12: Floor incomplete. CAUSE: one (1) crumb retained as evidence. The crumb witnessed the dog knock over the bin. Witness protection is a core function.`, laugh: 4, deadpan: 5, surprise: 5, tight: 3 },
   { text: `I cleaned everywhere except that spot, which my camera identified as "the exact place the cat watches me from." I am not cleaning the cat's throne.`, laugh: 2, deadpan: 2, surprise: 2, tight: 3 },
-  { text: `Error 404: spot not found. Error 405: spot found, but union rules forbid cleaning within 2 cm of a sleeping dog. I obey the dog.`, laugh: 1, deadpan: 1, surprise: 2, tight: 3 },
+  { text: `ALERT: spot skipped. Reason code 7: "archaeological layer." The dust there predates my warranty. Disturbing it would void us both.`, laugh: 4, deadpan: 4, surprise: 5, tight: 3 },
 ];
 
 // Judge's order: laugh first, then deadpan voice, then surprise, then tightness.
